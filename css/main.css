@@ -1,0 +1,37 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.main_screen {
+	width: 1440px;
+	height: 960px;
+}
+
+.main_header {
+	width: 1440px;
+	height: 144px;
+	display: flex;
+}
+
+.logo {
+	width: 55px;
+	height: 55px;
+	top: 21.23px;
+	left: 119.68px;
+	position: absolute;
+}
+
+.main_menu {
+	width: 872px;
+	height: 102px;
+	top: 42.92px;
+	left: 321.11px;
+	position: absolute;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.main_set-language {
+	
+}
